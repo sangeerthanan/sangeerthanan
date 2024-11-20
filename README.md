@@ -11,7 +11,7 @@ Welcome to my GitHub! I'm passionate about **chip designing**, **embedded system
 ### 🌱 What I'm Currently Learning
 - **Chip Designing**: Enhancing my understanding of design, simulation, and verification techniques in chip design.  
 - **IoT Development**: Exploring IoT protocols, data management, and sensor integration for smart applications.  
-- **Programming Languages**: Expanding my knowledge of C, Python, and HDL (Verilog/VHDL).  
+- **Programming Languages**: Expanding my knowledge of C++, Python, and HDL (Verilog/VHDL).  
 
 ### 💞️ What I’m Looking to Collaborate On
 I'm open to collaborating on projects related to:  
